@@ -2,7 +2,7 @@
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
-A passionate software developer with over 3 years of hands-on experience in the world of .NET development. As a dedicated professional, I thrive on creating robust and scalable solutions that leverage the power of Microsoft's technology stack. Within my technical domain, I engage with C# (.Net Core) and JavaScript/TypeScript (Node.js). I also navigate smoothly through Angular, Vue.js, and work with diverse database engines including MySQL, MongoDB, and Cassandra. Check out my GitHub for a peek into my coding journey. Let's connect and explore the ever-evolving landscape of software development together! 🚀 
+A passionate software developer with over 3 years of hands-on experience in the world of .NET development. As a dedicated professional, I thrive on creating robust and scalable solutions that leverage the power of Microsoft's technology stack. Within my technical domain, I engage with C# (.Net Core) and JavaScript/TypeScript (Node.js). I also navigate smoothly through Angular, Vue.js, and work with diverse database engines including MySQL, MongoDB, Cassandra, and Redis. Check out my GitHub for a peek into my coding journey. Let's connect and explore the ever-evolving landscape of software development together! 🚀 
 
 <br><br><br><br><be>
 
