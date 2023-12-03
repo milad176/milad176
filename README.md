@@ -12,7 +12,7 @@ A passionate software developer with over 3 years of hands-on experience in the 
 - 🔭 I’m currently working on [ShopNet-AspnetCore-Microservices](https://github.com/milad176/ShopNet-AspnetCore-Microservices)
 - 💬 Ask me about **.Net, C#**
 - 📫 How to reach me **Milad.kardgar1@gmail.com**
-- ⚡ Fun fact **I think am funny.**
+- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
