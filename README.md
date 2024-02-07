@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
 A passionate software developer with over 3 years of hands-on experience in .NET development. As a dedicated professional, I thrive on creating robust and scalable solutions that leverage the power of Microsoft's technology stack. Although My main area of focus is design and development of software using .NET but I also navigate through Angular, and Vue.js smoothly, and work with diverse database engines including MySQL, MongoDB, Cassandra, and Redis.
-<br><be>
 
+<br><be>
 I'm consistently driven to enhance my programming expertise, striving to develop superior software solutions. I am actively seeking avenues for further learning and professional advancement and eagerly embrace the opportunities and obstacles that arise from keeping pace with the ever-evolving landscape of industry trends.
 <br><be>
 
