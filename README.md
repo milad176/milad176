@@ -7,7 +7,6 @@ A passionate software developer with over 3 years of hands-on experience in .NET
 <br><be>
 
 I'm consistently driven to enhance my programming expertise, striving to develop superior software solutions. I am actively seeking avenues for further learning and professional advancement and eagerly embrace the opportunities and obstacles that arise from keeping pace with the ever-evolving landscape of industry trends.
-
 <br><be>
 
 Check out my GitHub for a peek into my coding journey. Let's connect and explore the ever-evolving landscape of software development together! 🚀 
