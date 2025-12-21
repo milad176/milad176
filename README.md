@@ -2,10 +2,9 @@
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
-A passionate software developer with over 5 years of hands-on experience in .NET development. As a dedicated professional, I thrive on creating robust and scalable solutions that leverage the power of Microsoft's technology stack. While my primary focus is on designing and developing softwares using .NET, I am also proficient in navigating through Angular and Vue.js smoothly. Additionally, I have experience working with diverse database engines including SQL, PostgreSQL, MongoDB, Cassandra, and Redis.
-
+I am a Backend .NET Developer with over 5 years of professional experience designing and building scalable, reliable software solutions using the Microsoft technology stack. My primary focus is backend development with .NET and microservices, where I enjoy working on system design, performance, and maintainability. Alongside my backend expertise, I have working experience with Angular and Vue.js, enabling effective collaboration across full-stack teams. I have also worked with a wide range of data storage technologies, including SQL Server, PostgreSQL, MongoDB, Cassandra, and Redis.
 <br><be>
-I am consistently driven to enhance my programming expertise, constantly striving to develop superior software solutions. Actively seeking avenues for further learning and professional advancement, I eagerly embrace the opportunities and obstacles that arise from keeping pace with the ever-evolving landscape of industry trends.
+I am continuously motivated to improve my technical skills and software engineering practices. I value clean architecture, maintainable code, and learning from real-world systems, and I am always open to new challenges and opportunities for professional growth.
 <br><be>
 
 Feel free to check out my GitHub for a peek into my coding journey. Let's connect and explore the ever-evolving landscape of software development together! 🚀 
