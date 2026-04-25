@@ -72,12 +72,12 @@ Observability:             Logging, tracing, monitoring, diagnostics
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=ShopNetMicroservices-AspnetCore&hide_border=true" />
 </a>
 
-<a href="https://github.com/milad176/InsuranceClaimsService">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=InsuranceClaimsService&hide_border=true" />
+<a href="https://github.com/milad176/insurance-claims-handling-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=insurance-claims-handling-service&hide_border=true" />
 </a>
 
 <a href="https://github.com/milad176/go-task-processor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=GoTaskProcessingSystem&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=go-task-processor&hide_border=true" />
 </a>
 
 </div>
@@ -113,9 +113,16 @@ Observability:             Logging, tracing, monitoring, diagnostics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=milad176&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad176&layout=compact&hide_border=true" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milad176&layout=compact&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=milad176&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
