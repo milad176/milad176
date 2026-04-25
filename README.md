@@ -63,9 +63,6 @@ A secure claims-processing backend focused on **JWT authentication**, **CQRS**, 
 ### 🔹 Go Task Processing System
 A concurrent backend processing service using **goroutines**, **channels**, and **worker pools** for scalable asynchronous background execution.
 
-### 🔹 Distributed Architecture Playground
-Ongoing engineering experiments around **service discovery**, **API Gateway routing**, **observability**, **resilient messaging**, and backend infrastructure patterns.
-
 ---
 
 ## Engineering Principles I Care About
