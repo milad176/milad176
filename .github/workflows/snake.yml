@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Premium Snake Animation
 
 on:
   schedule:
@@ -16,7 +16,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg?color_snake=#58A6FF&color_dots=#0d1117,#0d419d,#1f6feb,#58a6ff,#79c0ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
