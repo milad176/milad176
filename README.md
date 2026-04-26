@@ -137,7 +137,7 @@ Observability:             Logging, tracing, monitoring, diagnostics
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/milad176/milad176/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/milad176/milad176/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
