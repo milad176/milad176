@@ -80,6 +80,10 @@ Observability:             Logging, tracing, monitoring, diagnostics
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=go-task-processor&hide_border=true" />
 </a>
 
+<a href="https://github.com/milad176/go-realtime-chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milad176&repo=go-realtime-chat&hide_border=true" />
+</a>
+
 </div>
 
 ---
